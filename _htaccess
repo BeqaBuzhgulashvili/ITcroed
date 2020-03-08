@@ -1,0 +1,11 @@
+Options -Indexes
+
+#RewriteEngine On
+
+#RewriteRule ^home index.php [NC,L]
+#RewriteRule ^products products.php [NC,L]
+#RewriteRule ^service service.php [NC,L]
+#RewriteRule ^audit audit.php [NC,L]
+#RewriteRule ^consultation consultation.php [NC,L]
+#RewriteRule ^about about.php [NC,L]
+#RewriteRule ^contact contact.php [NC,L]
